@@ -1,1 +1,33 @@
-a
+# Chính
+Nhân vật:
+Player (Ryley)
+Robin (từ Below Zero)
+B3-NT (từ The Red Plague)
+Al-An (từ Below Zero)
+Và... (...)
+## Act 0
+4546B đã là 1 hành tinh biển mà Architect/Precursor dùng để nghiên cứu trị vi khuẩn Kharaa. Họ cử B3-NT và Al-An xuống 4546B để nghiên cứu thuốc trị. Ban đầu cả 2 đều khá ăn ý nhau nhưng ngày càng thấy sự khác biệt về cách mà họ sẽ nghiên cứu khi bt hành tinh mẹ của họ đã bị tàn phá bởi Kharra quá nhiều.
+- B3-NT theo hướng trị cực đoan là "lấy độc trị độc" khi nghiên cứu 1 chủng sinh vật mới mang tên The Red Plague (PNCA) để trị Kharra. Do chỉ mình B3-NT là am hiểu nó nhất về PNCA mà ko 1 Architect nào hiểu về nó.
+- Al-An thì theo hướng bình thường là tìm kiếm những enzyme có thể ức chế đc Kharaa. Khi đó Al-An đã tìm thấy đc Enzyme 42 là lựa chọn hoàn hảo.
+Khi đó cả 2 đều khá xung đột với nhau khi ko còn chung cách suy nghĩ nữa. Thành ra:
+- B3-NT thì chọn ở lại vùng The Crater với những công trình nghiên cứu riêng về PNCA
+- Al-An thì quyết định rời khu Crater với những công trình dan dở về enzyme 42 mà đến Sector Zero để chuyển hướng nghiên cứu. (nói thẳng ra là ko còn thích ở gần B3-NT)
+Sau đó sự kiện B3-NT vô tình làm cho PNCA thống trị cả vùng Crater và buộc B3-NT phải lưu trữ ý thức tại 1 vùng sâu thẳm trong 1 khối lập phương. Khi đó:
+- B3-NT bị cố định tại cơ sở đó (tên sẽ thuộc về bên mod The Red Plague) và suy nghĩ về kế hoạch tiếp theo của mình với PNCA trong khi PNCA cố gắng xâm nhập vào cơ sở đang lưu trữ B3-NT.
+- Al-An cũng phải lánh nạn tại cơ sở Sanctuary Zero ở Sector Zero và lưu trữ ý thức tại đó y như B3-NT. Al-An phải lánh nạn vì sự bùng nổ của PNCA và trong khi Kharaa vẫn đg hoành hành ở vùng Sector Zero còn PNCA là ở Crater.
+Sau Khi đó Alterra cử Aurora đến vùng cụ thể để xây dựng 1 cổng dịch chuyển nhằm mở rộng hệ thống mạng lưới giao thông liên thiên hà của Alterra. Nhưng Aurora vô tình đi quá gần 4546B và bị vũ khí của Architect bắn và rơi tại Crash Zone. Ryley là ng duy nhất sống sót. Ryley sau đó đã thành công cho Enzyme 42 để trị đc Kharaa.
+Sam và Alterra xuống 4546B sau này và diễn biến cốt truyện y như Below Zero trc khi Robin xuống.
+## Act 1
+### Phần I Khởi đầu Crater
+Robin muốn tìm hiểu về cái chết của Sam (y như Below Zero)... 
+Ngay lúc Robin định xuống 4546B vùng Sector Zero khi đang trong cơn mưa thiên thạch để tránh vệ tinh của Alterra thì vô tình bị 1 thiên thạch bị ảnh hưởng bởi một lực không xác định là va vào tàu con thoi của Robin làm chệch hướng quỹ đạo và quay về vùng Crater.
+Khi xuống nơi này thì Robin phát hiện PNCA đang hoành hành rất lớn ở đây và đc 1 tín hiệu ko xác định yêu cầu cô đến khu [act_01_location_unknown01] để dịch chuyển đến Sector Zero và tránh PNCA.
+Dù Robin khá nghi ngờ tín hiệu này nhưng cô vẫn quyết định chế gấp 1 cái seaglide và bơi đến [act_01_1_location_unknown01] để thoát khỏi PNCA.
+### Phần II Gameplay Below Zero
+Như Below Zero chính cho đến khi:
+Robin nhận thấy đc tín hiệu ... --- ... và lần theo nó tới cơ sở Sanctuary Zero. Sau khi tới thì Al-An nói phân cảnh:
+[act_01_2_Al_An_pda_logs_1] đến [act_01_2_Al_An_pda_logs_n]
+Robin khi đc Al-An kể về [Act 0] thì cô quyết định giúp Al-An song với tìm kiếm thông tin về cái chết của Sam.
+(diễn ra tiếp y như Below Zero là tìm hiểu cái chết của Sam và chế tạo cơ thể cho Al-An)
+### Phần III Thông tin và Đối đầu
+Soon...
