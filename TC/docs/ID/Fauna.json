@@ -1,0 +1,14 @@
+{
+  "tcchelicerate":
+  {
+    "name": "Chelicerate",
+    "ogid": "chelicerate",
+    "note": "cần logic"
+  },
+  "tcshadowleviathan":
+  {
+    "name": "Shadow Leviathan",
+    "ogid": "shadowleviathan",
+    "note": "cần logic"
+  }
+}
