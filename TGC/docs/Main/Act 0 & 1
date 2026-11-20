@@ -1,9 +1,10 @@
 # Chính
 Nhân vật:
-Player (Ryley)
 Robin (từ Below Zero)
-B3-NT (từ The Red Plague)
 Al-An (từ Below Zero)
+B3-NT (từ The Red Plague)
+Angelina (The Red Plague)
+Fred (The Red Plague)
 Và... (...)
 ## Act 0
 4546B đã là 1 hành tinh biển mà Architect/Precursor dùng để nghiên cứu trị vi khuẩn Kharaa. Họ cử B3-NT và Al-An xuống 4546B để nghiên cứu thuốc trị. Ban đầu cả 2 đều khá ăn ý nhau nhưng ngày càng thấy sự khác biệt về cách mà họ sẽ nghiên cứu khi bt hành tinh mẹ của họ đã bị tàn phá bởi Kharra quá nhiều.
@@ -28,6 +29,24 @@ Như Below Zero chính cho đến khi:
 Robin nhận thấy đc tín hiệu ... --- ... và lần theo nó tới cơ sở Sanctuary Zero. Sau khi tới thì Al-An nói phân cảnh:
 [act_01_2_Al_An_pda_logs_1] đến [act_01_2_Al_An_pda_logs_n]
 Robin khi đc Al-An kể về [Act 0] thì cô quyết định giúp Al-An song với tìm kiếm thông tin về cái chết của Sam.
-(diễn ra tiếp y như Below Zero là tìm hiểu cái chết của Sam và chế tạo cơ thể cho Al-An)
-### Phần III Thông tin và Đối đầu
-Soon...
+### Phần III Thông tin và Đối đầu.
+* Thông tin:
+Sau đó, Robin quyết định tìm hiểu về Sam và phát hiện một thông tin tài liệu của chị mình nghiên cứu trước khi gặp tai nạn. Đó là trong hồ sơ báo cáo không chỉ có mỗi về Kharaa mà còn về 1 loại dịch bệnh bí ẩn có tên là The Red Plague.
+(sau đó Robin tìm hiểu xong về tuyến Sam và quyết định ở lại tìm hiểu về The Red Plague với sự thuyết phục và đồng hành cùng Al-An)
+Về hai phía nhận định về The Red Plague:
+- Al-An đưa ra giả thuyết: B3-NT trực tiếp hoặc gián tiếp điều khiển PNCA do hành vi quá thông minh của nó mà chính Al-An vẫn ko hiểu đc.
+- Nghiên cứu của Sam và Alterra thì cho thấy The Red Plague sở hữu dạng Hivemind rất thông minh và dường như phát ra tín hiệu Hivemind đến mỗi cá thể nhiễm qua 1 loại chất hóa học ko xác định trong môi trường nước. Nơi phát ra tín hiệu ấy đc ghi nhận có thể đến từ tâm của dịch bệnh - Tim của The Red Plague.
+Do tính chất dịch bệnh quá nguy hiểm nên Robin đã lm 1 việc mang tính liều là ko tắt tháp trung tâm ở Đảo Delta mà quyết định liên lạc với Alterra và Xenoworx để xin viện trợ.
+Song song với đó Robin cũng đã tạo đc cơ thể cho Al-An nhưng Al-An quyết định để lại 1 phần tâm trí để liên lạc với Robin với sự đồng thuận của cô ấy. Sau đó Al-An yêu cầu Robin qua lại Crater để điều tra và tiếp cận B3-NT.
+* Đối đầu:
+Al-An sau khi yêu cầu và đc Robin đồng ý thì Robin đã tìm đc đến cơ sở lưu trữ của B3-NT và sau 1 vài cuộc trò chuyện thì B3-NT quyết định truyền tâm trí lên tấm PDA của Robin.
+Trong tâm trí Robin thì cô vẫn suy nghĩ thầm để giao tiếp với Al-An nhằm ứng xử và tìm kiếm xem hành động tiếp theo là gì.
+B3-NT sau đó chia sẻ với Robin mà ko bt Al-An vẫn luôn hiện diện 1 phần ở đó:
+- [act_01_3_B3NT_pda_logs_1] (khái quát của sự kiện B3NTpdalogs1 như sau: B3-NT chia sẻ B3-NT rất hối hận vì một chút chủ quan của bản thân để làm ra sự diệt chủng này lẫn chia sẻ thêm 1 vài thông tin về PNCA là nó là một sinh vật độc lập có trí thông minh cao vì ban đầu B3-NT thiết kế PNCA thông minh để tự nó tìm cách diệt Kharaa nhưng sau đó PNCA đã phản bội chính "đáng sáng tạo" ra nó và đặt Tâm của nó tại vùng [loc_heart_of_pnca]. Và B3-NT nói với Robin mong muốn hợp tác lại với Al-An để tiêu diệt lại chính sai lầm và chủ quan nóng vội những thế kỷ xưa.)
+- Lúc đó Al-An vẫn kêu Robin đừng nói về sự tồn tại của mình với B3-NT vì đề phòng B3-NT lừa và phản bội Robin lẫn mang đến sự hủy diệt mà Al-An sẽ nghiên cứu tại căn cứ Sector Zero về dịch bệnh thêm.
+
+Alterra sau đó đã cử 2 người là Angelina và Fred. Alterra sau đó muốn phong tỏa khu vực Crater để kiểm soát The Red Plague nên đã liên lạc với Robin yêu cầu hợp tác.
+Robin sau đó bàn với Al-An thì Al-An quyết định hợp tác với Alterra và xây một khẩu pháo năng lượng để duy trì năng lượng cho mái vòm sắt (Iron Dome) do Alterra xây dựng.
+
+End act1.
+## Act 2
