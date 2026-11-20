@@ -1,102 +1,85 @@
 {
-  "tcchelicerate":
-  {
+  "tcchelicerate": {
     "name": "Chelicerate",
     "ogid": "chelicerate",
     "note": "cần logic"
   },
-  "tcshadowleviathan":
-  {
+  "tcshadowleviathan": {
     "name": "Shadow Leviathan",
     "ogid": "shadowleviathan",
     "note": "cần logic"
   },
-  "tciceworm":
-  {
-    "name": "Ice Wor.",
+  "tciceworm": {
+    "name": "Ice Worm",
     "ogid": "iceworm",
     "note": "cần logic"
   },
-  "tcglowwhale":
-  {
+  "tcglowwhale": {
     "name": "Glow Whale",
     "ogid": "glowwhale",
     "note": "cần logic"
   },
-  "tclargeventgarden":
-  {
+  "tclargeventgarden": {
     "name": "VentGarden lớn",
     "ogid": "largeventgarden",
     "note": "cần logic"
   },
-  "tcbruteshark":
-  {
+  "tcbruteshark": {
     "name": "Brute Shark",
-    "ogid": "briteshark",
+    "ogid": "bruteshark",
     "note": "ko cần logic"
   },
-  "tcsnowstalker":
-  {
+  "tcsnowstalker": {
     "name": "Snow Stalker",
     "ogid": "snowstalker",
     "note": "cần logic"
   },
-  "tcbrinewing":
-  {
+  "tcbrinewing": {
     "name": "Brinewing",
-    "ogid": "bringewing",
+    "ogid": "brinewing",
     "note": "cần logic"
   },
-  "tcpenguin":
-  {
+  "tcpenguin": {
     "name": "Pengwing",
     "ogid": "penguin",
     "note": "cần logic"
   },
-  "tcpenguinbaby":
-  {
+  "tcpenguinbaby": {
     "name": "Pengling",
     "ogid": "penguinbaby",
     "note": "cần logic"
   },
-  "tcarcticpeeper":
-  {
+  "tcarcticpeeper": {
     "name": "Arctic Peeper",
     "ogid": "arcticpeeper",
     "note": "ko cần logic"
   },
-  "tcseamonkey":
-  {
+  "tcseamonkey": {
     "name": "Sea Monkey",
     "ogid": "seamonkey",
     "note": "cần logic"
   },
-  "tcseamonkeybaby":
-  {
+  "tcseamonkeybaby": {
     "name": "Sea Monkey Baby",
     "ogid": "seamonkeybaby",
     "note": "cần logic"
   },
-  "tchoopfish":
-  {
+  "tchoopfish": {
     "name": "Hoopfish",
     "ogid": "hoopfish",
     "note": "ko cần logic"
   },
-  "tcspinnerfish":
-  {
+  "tcspinnerfish": {
     "name": "Spinner Fish",
     "ogid": "spinnerfish",
     "note": "ko cần logic"
   },
-  "tcfeatherfish":
-  {
+  "tcfeatherfish": {
     "name": "Feather Fish",
     "ogid": "featherfish",
     "note": "ko cần logic"
   },
-  "tctriops":
-  {
+  "tctriops": {
     "name": "Triops",
     "ogid": "triops",
     "note": "ko cần logic"
