@@ -10,5 +10,95 @@
     "name": "Shadow Leviathan",
     "ogid": "shadowleviathan",
     "note": "cần logic"
+  },
+  "tciceworm":
+  {
+    "name": "Ice Wor.",
+    "ogid": "iceworm",
+    "note": "cần logic"
+  },
+  "tcglowwhale":
+  {
+    "name": "Glow Whale",
+    "ogid": "glowwhale",
+    "note": "cần logic"
+  },
+  "tclargeventgarden":
+  {
+    "name": "VentGarden lớn",
+    "ogid": "largeventgarden",
+    "note": "cần logic"
+  },
+  "tcbruteshark":
+  {
+    "name": "Brute Shark",
+    "ogid": "briteshark",
+    "note": "ko cần logic"
+  },
+  "tcsnowstalker":
+  {
+    "name": "Snow Stalker",
+    "ogid": "snowstalker",
+    "note": "cần logic"
+  },
+  "tcbrinewing":
+  {
+    "name": "Brinewing",
+    "ogid": "bringewing",
+    "note": "cần logic"
+  },
+  "tcpenguin":
+  {
+    "name": "Pengwing",
+    "ogid": "penguin",
+    "note": "cần logic"
+  },
+  "tcpenguinbaby":
+  {
+    "name": "Pengling",
+    "ogid": "penguinbaby",
+    "note": "cần logic"
+  },
+  "tcarcticpeeper":
+  {
+    "name": "Arctic Peeper",
+    "ogid": "arcticpeeper",
+    "note": "ko cần logic"
+  },
+  "tcseamonkey":
+  {
+    "name": "Sea Monkey",
+    "ogid": "seamonkey",
+    "note": "cần logic"
+  },
+  "tcseamonkeybaby":
+  {
+    "name": "Sea Monkey Baby",
+    "ogid": "seamonkeybaby",
+    "note": "cần logic"
+  },
+  "tchoopfish":
+  {
+    "name": "Hoopfish",
+    "ogid": "hoopfish",
+    "note": "ko cần logic"
+  },
+  "tcspinnerfish":
+  {
+    "name": "Spinner Fish",
+    "ogid": "spinnerfish",
+    "note": "ko cần logic"
+  },
+  "tcfeatherfish":
+  {
+    "name": "Feather Fish",
+    "ogid": "featherfish",
+    "note": "ko cần logic"
+  },
+  "tctriops":
+  {
+    "name": "Triops",
+    "ogid": "triops",
+    "note": "ko cần logic"
   }
 }
